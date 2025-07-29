@@ -1,2 +1,3 @@
 # appanacollege-demo
-this is my learning journey
+This is my learning journey
+Author-Sai Kumar
